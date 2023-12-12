@@ -8,6 +8,6 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee " + name;
+        return "org.example.lab06.code.Employee " + name;
     }
 }

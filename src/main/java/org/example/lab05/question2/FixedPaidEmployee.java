@@ -17,6 +17,6 @@ public class FixedPaidEmployee extends Employee {
 
     @Override
     public String toString() {
-        return String.format("Employee %s earns %.1f$ per month", name, salary);
+        return String.format("org.example.lab06.code.Employee %s earns %.1f$ per month", name, salary);
     }
 }

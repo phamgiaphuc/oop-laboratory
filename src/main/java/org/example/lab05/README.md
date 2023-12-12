@@ -43,10 +43,10 @@ during the program.
 # Question 2
 - [Code](./question2/Pay.java)
 ```shell
-Employee A earns 1000.0$ per month
-Employee B earns 997.5$ per month
-Employee C earns 1400.0$ per month
+org.example.lab06.code.Employee A earns 1000.0$ per month
+org.example.lab06.code.Employee B earns 997.5$ per month
+org.example.lab06.code.Employee C earns 1400.0$ per month
 After modification
-Employee B earns 1155.0$ per month
-Employee C earns 1440.0$ per month
+org.example.lab06.code.Employee B earns 1155.0$ per month
+org.example.lab06.code.Employee C earns 1440.0$ per month
 ```

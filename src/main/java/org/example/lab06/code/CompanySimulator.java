@@ -26,7 +26,7 @@ public class CompanySimulator {
 
 		System.out.println(numItems);
 		for(int i = 0; i < this.numItems; i++)
-			System.out.println(company[i].toString());
+			System.out.println(company[i]);
 	}
 	
 	public void add(Employee em) {
